@@ -6,8 +6,7 @@ The MNIST database of handwritten digits has a training set of 60,000 examples, 
 
 ![alt text](https://github.com/shubham99bisht/Handwritten-digit-recognition-MNIST/blob/master/src/mnist-sample.png "MNIST")
 
-## Code Requirements
-python 3.x with following modules installed
+## Libraries
 
 1. PyTorch  
 3. numpy
@@ -20,4 +19,3 @@ Deep neural network that classifies images of digits from MNSIT database  with 9
 ## Authors and acknowledgment
 
 Ben Badnani, <bbadnani@bu.edu>
-
